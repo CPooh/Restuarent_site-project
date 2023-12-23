@@ -1,5 +1,5 @@
-# Restuarent_site-project
-Develop a modern e-commerce platform for a trendy restaurant, allowing users to browse and order items
+<b>Restuarent_site-project<b><br>
+Develop a modern e-commerce platform for a trendy restaurant, allowing users to browse and order items<br>
 
 <b>Restaurant Food Order Theme</b>
 Develop a modern e-commerce platform for a trendy restaurant, allowing users to browse and order items such as Pizza, Pasta, Avocado Toast, Sushi Burritos, Acai Bowls, Quinoa Bowls, Laksa, Tacos, Burgers, Fries, and drinks (Coffee, Matcha Lattes, Kombucha, Smoothies, Fruit Infused Water, Coconut Water, Teas, Vegetable Juices, Sparkling Water, Milk), online.
