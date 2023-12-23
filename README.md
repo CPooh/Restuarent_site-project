@@ -9,12 +9,12 @@ HTML
 CSS3
 Php
 
-Pages on this Complete Free Template
-Home_1.php - Home Page ( Some Categories, Featured Foods, Social Media link)
-about.php - About Restuarent
-Menu_3.php - List all food Categories on Single Page
-Checkout.php - List all foods on a single page and add to cart feature and chechout process
-Login.php - Site Sing In & Sing Up
+Pages on this Complete Free Template<br>
+Home_1.php - Home Page ( Some Categories, Featured Foods, Social Media link)<br>
+about.php - About Restuarent<br>
+Menu_3.php - List all food Categories on Single Page<br>
+Checkout.php - List all foods on a single page and add to cart feature and chechout process<br>
+Login.php - Site Sing In & Sing Up<br>
 
 For Sponsor or Project Enquiry
 Email - cphoo2001@gmail.com
